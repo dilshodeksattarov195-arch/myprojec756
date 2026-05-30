@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyfync",
+        "uuid": 4032504,
+        "checksum": "tjutym"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
